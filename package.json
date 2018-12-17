@@ -1,6 +1,6 @@
 {
-  "name": "@tato00/my-npm-test-2",
-  "version": "1.0.0",
+  "name": "tato-npm-test",
+  "version": "1.0.1",
   "description": "npm-test",
   "main": "dist/bundle.js",
   "files": [
@@ -10,7 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "bin": "bin/foo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liuweitao2/my-npm-test-2.git"
