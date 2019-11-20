@@ -14,4 +14,6 @@ npm config set registry http://registry.npmjs.org/
 npm config get registry
 发布
 npm adduser
+npm run build
 npm publish --access=public
+sudo npm link
